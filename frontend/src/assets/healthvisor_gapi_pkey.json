@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "healthvisor",
+  "private_key_id": "61eada59c06fb851c4f5ae0bde23b55b7bdcdcca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDVOs2yGia46PNC\nJkPh65YdBNbKg8D+XAUIbsP1AxQiRsTRltp+gvsjAHN1qHEaNpf7NJBSeBE5dK+7\n9FqBDNwyIZVuxColuREBhn+Zxt6rkhUilX/Qc3QfOaAfO6HZh/OVy3edTj71tQbD\n2Az6dAwCSeRSbgfuXsHCI1wRUWrj37L92r7R1JgYIN5P+wDKQBw61qAirpXLfmKX\nRUVhWmEYVV6ixFWccC2V7Blgu/nmOujVsEleCeongMnKSlXB4rXqLUoRLcHOa76X\nURXKdrDV1+dSQFRNnuXKaF67h3UGnGYkrbsrficBpY7Tl/amtnKiVDxm61mOny2N\nf8AtGHVnAgMBAAECggEAG9gX8D/1+oOA8IxqpN/MtHFjUwKtewmtJpLASAhk4qz3\nGp9mXMrh3Io8iYq7aj7izczpY7uGFEimghbAksWJI4q7JsG69z4ZeGeF1iDgBuuG\nkwOOszvAWCuAO1PgKLXWGyN8tS/4jMFc5soZt8LbppjbleAEbR42kxFm/mPxX1wj\nwe7z1a13NZri23kMicgmZLSC9wCg9hZPcQf0B7nJQ5QHqymYzlhrNOC1VhqU2STZ\nmZSu4vyd5ncofB4xGmQONXgX6x6WY53tD8oL+WAKqrAKlgBCdbfb99aj3YF0IlnE\nj8FGjZd+jUCaGdkrEu2cIvKiOZheiszx7Qit8xofgQKBgQDz+ye8dg7rT/aDTtBf\n6UNArP2sG0De3x+GPEnr9naK/3PA8GwtJT6d4E/iyRUfaKDNLUco4htbLkvV1bX3\nB3fTy0HQ35jAJxBHfUW2to8ABQQ2NlAHCqVrMmaE4YA9yG4ffyxHsOA7o+7lGHNh\nzWgre9nfHrw7tOD+7JyWDFGgxwKBgQDfu9e//c4GMPrHddUD/Mlmr665pv/fhkR9\nuosznc7tVEA5oVDM30GMcKHUoZXk2VNuFi9R6UAyJjmXTg+Edi4Uv6qFAM7QaPK/\nYZ/PNgGI46a5Po2iGNjDSu6JI/6r2gh/b8ksrXfsx5KqnW5Cw2N8FKBhGqNL8TXf\n1jwoZksmYQKBgQDWyH1cvZm4sfZT9igepx0bbK8MuhlLmqUH6T8ySRBmoSfn7D9v\nJuCO34+0GE1ODy+wMHH6ncJzbLg6ER9Vzu9ANilElfLFBh6gsLmUdfZBkCj7CKk+\n6bJiQkZaKKJawX2goLX8jst39YMzj2jT6p4P2cIdV9NhxIRmJypaNZIOtQKBgQCu\nyTII9IACiDsynhRXNCInTbKDqTqWZm+VhamAHpXtBPfTzfmww+2SiN90nPPcQAgU\npdI7/KxBQWmWkc4/no/rd70AgRwQ5xxVdTADEl7qkWbLq1m8vAqDr0Ng8jTgDsq6\nvBr/A1oAKf2juq/MCpbq9bZBhizyhDOhdd2zdg7ZoQKBgHp9xqF+moN08okBwKpJ\nGZo66Sc/Xfjn4HOb3U7C1F1DjWxBzeEv98m6hNhTohuo08j7jH2wNAMpG9mVyq3A\nV1i01eO1p+JTD/v7AAW2fiE3f7w7H1Ebkp6jHpH7xB2/OP1uuIbwrxrXdSPFw0A9\nClHxxdDK01VxHzdQBXLmnpER\n-----END PRIVATE KEY-----\n",
+  "client_email": "healthvisor@healthvisor.iam.gserviceaccount.com",
+  "client_id": "104186977629942156323",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/healthvisor%40healthvisor.iam.gserviceaccount.com"
+}

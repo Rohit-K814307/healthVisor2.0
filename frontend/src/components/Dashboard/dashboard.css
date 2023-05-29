@@ -1,0 +1,55 @@
+.sidebar {
+    text-align:center;
+    margin-top:-5%;
+    border: 2px solid black;
+    margin-right:1%;
+    margin-left:1%;
+    border-bottom-right-radius:25px;
+    border-bottom-left-radius:25px;
+    padding-bottom:5%;
+}
+.sidebar button {
+    margin-right:5%;
+    margin-left:5%;
+    height:fit-content;
+    width:fit-content;
+    text-align:center;
+    line-height:0.5;
+    font-size:2vh;
+}
+
+.sidebar p {
+    font-size:7vh;
+    font-weight:800;
+}
+.load-cont {
+    text-align:center;
+}
+
+.description {
+    margin-left:5%;
+    margin-right:5%;
+}
+
+.confidence {
+    margin-bottom:8%;
+}
+
+.dashcontent {
+    margin-top:5%;
+    padding-top:5%;
+    padding-bottom:5%;
+    background:linear-gradient(#cae0f8, white);
+}
+
+.dispSteps {
+    text-align:center;
+}
+
+.doctors {
+    padding-top:5%;
+}
+
+.gpt {
+    margin-top:10%;
+}
