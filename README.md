@@ -12,7 +12,7 @@ Our advanced Artificial Intelligence model was trained on over 600,000 data samp
 
 # HealthVisor App Demos
 
-![Youtube](https://drive.google.com/file/d/1PONJrZQmxAhlhCebsCYuRWOvZULy4JXu/view?usp=sharing)
+[Drive Link](https://drive.google.com/file/d/1PONJrZQmxAhlhCebsCYuRWOvZULy4JXu/view?usp=sharing)
 
 # Disclaimer
 
